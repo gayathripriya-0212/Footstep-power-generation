@@ -1,5 +1,9 @@
 # Footstep-power-generation
 Arduino Uno based footstep power generation using piezoelectric sensors
+
+## About
+This project demonstrates generation of electrical energy from human footsteps using piezoelectric sensors and Arduino Uno.
+
 ## Project Prototype
 
 ![Project](Screenshot_2026-05-27-14-27-33-343_com.whatsapp.jpg) 
